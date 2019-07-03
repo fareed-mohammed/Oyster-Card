@@ -1,0 +1,17 @@
+C:\Users\faree\source\repos\OysterCard\OysterCard.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\faree\source\repos\OysterCard\OysterCard.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\faree\source\repos\OysterCard\OysterCard.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\faree\source\repos\OysterCard\OysterCard.Tests\bin\Debug\OysterCard.Tests.dll
+C:\Users\faree\source\repos\OysterCard\OysterCard.Tests\bin\Debug\OysterCard.Tests.pdb
+C:\Users\faree\source\repos\OysterCard\OysterCard.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\faree\source\repos\OysterCard\OysterCard.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\faree\source\repos\OysterCard\OysterCard.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\faree\source\repos\OysterCard\OysterCard.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\faree\source\repos\OysterCard\OysterCard.Tests\obj\Debug\OysterCard.Tests.csprojAssemblyReference.cache
+C:\Users\faree\source\repos\OysterCard\OysterCard.Tests\obj\Debug\OysterCard.Tests.csproj.CoreCompileInputs.cache
+C:\Users\faree\source\repos\OysterCard\OysterCard.Tests\obj\Debug\OysterCard.Tests.csproj.CopyComplete
+C:\Users\faree\source\repos\OysterCard\OysterCard.Tests\obj\Debug\OysterCard.Tests.dll
+C:\Users\faree\source\repos\OysterCard\OysterCard.Tests\obj\Debug\OysterCard.Tests.pdb
+C:\Users\faree\source\repos\OysterCard\OysterCard.Tests\bin\Debug\OysterCard.exe
+C:\Users\faree\source\repos\OysterCard\OysterCard.Tests\bin\Debug\OysterCard.pdb
+C:\Users\faree\source\repos\OysterCard\OysterCard.Tests\bin\Debug\OysterCard.exe.config
